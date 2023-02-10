@@ -1,3 +1,4 @@
+<!doctype html public "-//w3c/dtd HTML 4.0//en">
 <html>
 <body>
 <h2>Hello World!</h2>
